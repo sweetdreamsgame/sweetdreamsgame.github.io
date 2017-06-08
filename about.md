@@ -4,10 +4,36 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Logo]({{ site.url }}/assets/images/sweet_banner.png)
 
-You can find the source code for the Jekyll new theme at:
-[minima](https://github.com/jekyll/minima)
+The game
+======
+Sweet Dreams is a pillow fighting game in a multiplayer arena.
+You must defeat your friends and put them to sleep with pillow attacks.
+When you are the last man standing, you are the king of your pillow fort. 
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+
+![Screenshot]({{ site.url }}/assets/images/screenshot_1.png)
+![Screenshot]({{ site.url }}/assets/images/screenshot_2.png)
+![Screenshot]({{ site.url }}/assets/images/screenshot_3.png)
+
+
+
+
+Follow us
+======
+**Twitter**: [@sweetdreamsgame](https://www.twitter.com/sweetdreamsgame)
+
+**Facebook**: [/sweetdreamsgame](https://www.fb.com/sweetdreamsgame)
+
+**Itch.io**: [/sweetdreamsgame](https://onirictails.itch.io/sweetdreams)
+
+
+**Developers**
+
+**Release Date**: April 2018
+
+**Platforms**: Consoles and PCs
+
+
+
