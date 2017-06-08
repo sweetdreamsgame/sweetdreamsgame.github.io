@@ -23,11 +23,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sweetdreamsgame
 github_username:  sweetdreamsgame
+repository: sweetdreamsgame/sweetdreamsgame.github.io
 paginate: 2
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
   - jekyll-paginate
