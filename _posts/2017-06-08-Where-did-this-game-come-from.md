@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Where did this game come from?"
 categories: 
 ---
